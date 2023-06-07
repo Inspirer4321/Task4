@@ -1,0 +1,31 @@
+.select {
+    padding: 10px;
+}
+.open-menu-btn {
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-bottom: 26px;
+    cursor: pointer;
+    border: 1px solid;
+  }
+  
+  .menu-container {
+    width: 100px;
+    height: 100px;
+    border: 1px solid ;
+    border-radius: 4px;
+    padding: 16px;
+    margin-top: 16px;
+  }
+  
+  .menu-item {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .menu-item.active {
+    border: 2px solid #f5a623;
+  }
+  

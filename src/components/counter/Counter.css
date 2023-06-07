@@ -1,0 +1,26 @@
+.counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .counter-btn {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4c9eff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .counter-btn:hover {
+    background-color: #1e70ff;
+  }
+  
+  .counter-number {
+    margin: 0 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
